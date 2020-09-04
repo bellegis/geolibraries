@@ -30,7 +30,6 @@ Use this section to share great projects or class activities.
 
 ## Communication
 
-Forum 👇<br>
-https://groups.io/g/geolibrarians
+[Forum](https://groups.io/g/geolibrarians "Forum")
 
 [Twitter list](https://twitter.com/i/lists/1301804164318662656?s=20 "Twitter list")
