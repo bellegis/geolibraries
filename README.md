@@ -7,7 +7,7 @@ This is a place for anyone interested in the role of libraries in geography, GIS
 
 Use this section to share teaching materials and guides.
 
-[Cartinal](https://geoservices.leventhalmap.org/cartinal/ "Cartinal")
+[Cartinal](https://geoservices.leventhalmap.org/cartinal/ "Cartinal")<br>
 The Leventhal Map & Education Center's guides & documentation pages. Geared towards public audiences, with tutorials and guides focused on open software environments. Also includes documentation for the Map Center's GIS & DH projects.
 
 
