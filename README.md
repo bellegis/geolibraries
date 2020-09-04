@@ -1,6 +1,6 @@
 # Geolibrarians Resources
 
-This is a place for anyone interested in the role of libraries in geography, GIS education or spatial data information literacy to converge to contribute to shared knowledge.  
+This is a place for anyone interested in the role of libraries in geography, GIS education or spatial data information literacy to contribute to shared knowledge.  
 
 
 ## Tutorials and guides
