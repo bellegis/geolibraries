@@ -10,6 +10,9 @@ Use this section to share teaching materials and guides.
 [Cartinal](https://geoservices.leventhalmap.org/cartinal/ "Cartinal")<br>
 The Leventhal Map & Education Center's guides & documentation pages. Geared towards public audiences, with tutorials and guides focused on open software environments. Also includes documentation for the Map Center's GIS & DH projects.
 
+[10 New ArcGIS Pro Lesson Activities, Learn Paths, and Migration Reflections](https://spatialreserves.wordpress.com/2020/05/14/10-new-arcgis-pro-lesson-activities-learn-paths-and-migration-reflections/)
+
+A new set of 10 ArcGIS Pro lessons empowers GIS practitioners, instructors, and students with essential skills to find, acquire, format, and analyze public domain spatial data to make decisions. Blog post links to the lessons themselves as well as the reflections from the authors on moving the lessons from ArcGIS Desktop to ArcGIS Pro. (Joe Kerski and Jill Clark, May 2020)
 
 ## Data for teaching
 
