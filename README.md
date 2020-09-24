@@ -50,6 +50,9 @@ Collection of tutorials from the MIT Libraries, including finding data, working 
 [Map Club at Columbia](https://library.columbia.edu/services/research-data-services/map-club.html "Map Club at Columbia")<br>
 Map Club at Columbia, provided by Research Data Services, is for those who want to learn more about mapping, spatial data and GIS. Open to beginners and experts, the club is a space to experiment with web-based libraries or frameworks and GIS tools.
 
+[QGIS Tutorials](https://libguides.wustl.edu/c.php?g=46935&p=7389346 "QGIS Tutorials")<br>
+Introduction to QGIS Tutorial from Washington University in St. Louis University Libraries.
+
 
 
 ## Lesson Plans
