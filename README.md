@@ -34,7 +34,14 @@ Find step-by-step guides to help you get started with Map Box or take your proje
 The cartographic community thrives on a culture of sharing knowledge, and I am happy to play a small part in that culture by offering some practical advice from my mapmaking experience. Daniel Huffman. 
 
 [Geographic Information Systems (GIS): Tutorials and Help Resources](https://libguides.mit.edu/gis/tutorials "Geographic Information Systems (GIS): Tutorials and Help Resources")<br>
- Collection of tutorials from the MIT Libraries, including finding data, working with census data, mapprojection, geocoding, and much more!  
+ Collection of tutorials from the MIT Libraries, including finding data, working with census data, mapprojection, geocoding, and much more! 
+
+[QGIS Tutorials](https://libguides.wustl.edu/c.php?g=46935&p=7389346 "QGIS Tutorials")<br>
+Introduction to QGIS Tutorial from Washington University in St. Louis University Libraries.
+
+[GIS Tutorials from Creighton Univerisity Digital Humanities](http://steppingintothemap.com/mappinghistory/tutorials/ "GIS Tutorials from Creighton Univerisity Digital Humanities")<br>
+Written for QGIS. Topics include working with NHGIS and Joins, Select by Attribute and Export, Vector Layers and Buffers and Census Data and Choropleths.
+ 
 
 ### Guides
 
@@ -50,8 +57,7 @@ Collection of tutorials from the MIT Libraries, including finding data, working 
 [Map Club at Columbia](https://library.columbia.edu/services/research-data-services/map-club.html "Map Club at Columbia")<br>
 Map Club at Columbia, provided by Research Data Services, is for those who want to learn more about mapping, spatial data and GIS. Open to beginners and experts, the club is a space to experiment with web-based libraries or frameworks and GIS tools.
 
-[QGIS Tutorials](https://libguides.wustl.edu/c.php?g=46935&p=7389346 "QGIS Tutorials")<br>
-Introduction to QGIS Tutorial from Washington University in St. Louis University Libraries.
+
 
 
 
@@ -67,7 +73,7 @@ TeachGIS.org is a reference website offered by the University Consortium for Geo
 [GeoDa Software](https://spatial.uchicago.edu/online-lectures "GeoDa Software")<br>
 LUC ANSELIN’S RECORDED LECTURES ON YOUTUBE
 
-## Data for teaching
+## Data 
 
 Use this section to point to datasets you have found useful in teaching environments. Feel free to comment on how you used them, and what the outcomes, successes, challenges were.
 
@@ -76,6 +82,9 @@ MIT Featured Data Collections.
 
 [GIS Vector Data](https://geospatial.com/products/gis-vector-data/ "GIS Vector Data")<br>
 GIS Vector data from East View Geospatial, focusing on plug and play data sets for novice and expert GIS professionals.
+
+[Historical Maps, Archival Resources & Boundary files](http://steppingintothemap.com/mappinghistory/data-resources/ "Historical Maps, Archival Resources & Boundary files")<br>
+Resource list from Creighton University Digital Humanities course, Mapping History 317. 
 
 
 
