@@ -84,7 +84,7 @@ MIT Featured Data Collections.
 GIS Vector data from East View Geospatial, focusing on plug and play data sets for novice and expert GIS professionals.
 
 [Historical Maps, Archival Resources & Boundary files](http://steppingintothemap.com/mappinghistory/data-resources/ "Historical Maps, Archival Resources & Boundary files")<br>
-Resource list from Creighton University Digital Humanities course, Mapping History 317. 
+Resource list from Creighton University Digital Humanities course, Mapping History 317. Great list of international historic census data. 
 
 
 
