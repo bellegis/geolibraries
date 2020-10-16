@@ -1,4 +1,4 @@
-# Data Information Core Competencies
+# Data Information Literacy Core Competencies
 
 ## Source
 
