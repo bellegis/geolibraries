@@ -114,7 +114,7 @@ Use this section to point to great books or articles.
 Carlson, J., & Johnston, L.R. (Eds.). e-book, Purdue University Press, 2015. 
 Recommended by Belle Lipton -- great studies and language about gaps in student data info literacy competencies and how library skillsets and mission perfectly aligns with addressing these issues
 
-[Core Competencies](core-competencies.md "Core Competencies - from Carlson & Johnston") 
+[Core Competencies](core-competencies.md "Core Competencies - from Carlson & Johnston") <br>
 Pulled from Carlson & Johnston
 
 [New Information Literacy Instruction](https://books.google.com/books?id=jQquCgAAQBAJ&dq=sinton+%22spatial+literacy%22&lr=&source=gbs_navlinks_s "New Information Literacy Instruction")<br>
