@@ -128,6 +128,8 @@ View chapter 10, Patrick Ragains and  M. Sandra Wood
 [Understanding spatial literacy: cognitive and curriculum perspectives](https://www.tandfonline.com/doi/full/10.11120/plan.2006.00170026 "Understanding spatial literacy: cognitive and curriculum perspectives")<br>
 List of Community Members, Helen King / Helen.King@plymouth.ac.uk 
 
+[Cyber Literacy for GIScience: Toward Formalizing Geospatial Computing Education](https://doi.org/10.1080/00330124.2018.1518720)<br>
+Eric Shook and many co-authors, 2019. Great paper on the intersection of GIScience and Computational Science.
 
 ### ALA Definitions for GIS Librarianship Competencies
 
