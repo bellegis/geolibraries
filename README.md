@@ -121,6 +121,8 @@ Pulled from Carlson & Johnston
 View chapter 10, Patrick Ragains and  M. Sandra Wood
 
 [Degree outcomes and national calibration: Debating academic standards in UK Geography](https://ouci.dntb.gov.ua/en/works/9QgQagN4/ "Degree outcomes and national calibration: Debating academic standards in UK Geography")<br>
+
+[SUMMARY OF THE ONLINE DISCUSSION, TOWARDS DEFINING GEOSPATIAL DATA LITERACY]("https://iassistdata.org/blog/2020/09/15/summary-of-the-online-discussion-towards-defining-geospatial-data-literacy/")
  
 
 ### Spatial Information Literacy
