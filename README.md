@@ -110,12 +110,16 @@ Geo4Lib Camp is run by Stanford University, and through this link you can access
 Use this section to point to great books or articles.
 
 ### Data Information Literacy
+
 [Data Information Literacy: Librarians, Data, and the Education of a New Generation of Researchers](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1042&context=purduepress_ebooks "Data Information Literacy: Librarians, Data, and the Education of a New Generation of Researchers")<br>
 Carlson, J., & Johnston, L.R. (Eds.). e-book, Purdue University Press, 2015. 
 Recommended by Belle Lipton -- great studies and language about gaps in student data info literacy competencies and how library skillsets and mission perfectly aligns with addressing these issues
 
 [Core Competencies](core-competencies.md "Core Competencies - from Carlson & Johnston") <br>
 Pulled from Carlson & Johnston
+
+[Curriculum Data Deep Dive: Identifying Data Literacies in the Disciplines](https://escholarship.umassmed.edu/jeslib/vol9/iss1/1/)
+Klenke, Schultz, Tokarz & Azadbakht at the University of Reno, 2020-02-03
 
 [New Information Literacy Instruction](https://books.google.com/books?id=jQquCgAAQBAJ&dq=sinton+%22spatial+literacy%22&lr=&source=gbs_navlinks_s "New Information Literacy Instruction")<br>
 View chapter 10, Patrick Ragains and  M. Sandra Wood
