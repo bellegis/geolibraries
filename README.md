@@ -118,7 +118,7 @@ Recommended by Belle Lipton -- great studies and language about gaps in student 
 [Core Competencies](core-competencies.md "Core Competencies - from Carlson & Johnston") <br>
 Pulled from Carlson & Johnston
 
-[Curriculum Data Deep Dive: Identifying Data Literacies in the Disciplines](https://escholarship.umassmed.edu/jeslib/vol9/iss1/1/)
+[Curriculum Data Deep Dive: Identifying Data Literacies in the Disciplines](https://escholarship.umassmed.edu/jeslib/vol9/iss1/1/)<br>
 Klenke, Schultz, Tokarz & Azadbakht at the University of Reno, 2020-02-03
 
 [New Information Literacy Instruction](https://books.google.com/books?id=jQquCgAAQBAJ&dq=sinton+%22spatial+literacy%22&lr=&source=gbs_navlinks_s "New Information Literacy Instruction")<br>
